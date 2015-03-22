@@ -1,5 +1,44 @@
 <html>
   <head>
-  <p>Take our quiz!</p>
+  <style>
+    body {
+      background-color: pink;
+      background-image: url("img_dog.gif),
+      url("img_flwr.gif");
+      background-color: #cccccc;
+      font-family: Georgia, serif;
+    }
+    header {
+      font-weight: bold;
+      border: 20px dashed white;
+      color: white;
+    }
+  </style>
+   <title>Our website</title>
+   
   </head>
+  <header>
+    <p>welcome to our quiz!</p>
+  </header>
+  <body>
+  <p>yeet</p>
+    <nav>
+     <ul>
+       <li><a href="#">Take our quiz!</a></li>
+      </ul>
+    </nav>
+    <nav>
+     <ul>
+       <li><a href="taylor27.github.io/quiz">Take our quiz again!</a></li>
+      </ul>
+    </nav>
+   <footer>
+   <style>
+   footer {
+     background-color: orange;
+   }
+   </style>
+      <p>dog dog</p>
+   </footer>
+  </body>
 </html>
